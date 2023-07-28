@@ -1,8 +1,8 @@
-## AI Personal Assistant
+# AI Personal Assistant
 - Jarvis is an AI personal assistant project built using Python. It is designed to assist users with various tasks, making their lives easier and more productive.
 - Inspired by the AI assistant from the Iron Man movies, Jarvis can perform a wide range of functions, including answering questions, managing tasks, providing news updates, and more.
 
-### Features
+## Features
 **Voice Interaction:** Jarvis can listen to voice commands and respond using text-to-speech technology, creating a natural and interactive experience.
 
 **Speech Recognition:** Powered by speech recognition libraries, Jarvis can accurately understand user voice commands and process them accordingly.
@@ -25,7 +25,8 @@
 
 **AI Learning:** The more you interact with Jarvis, the more it learns about your preferences and adapts to your needs.
 
-### Installation
+
+## Installation
 - Clone the Jarvis repository to your local machine.
 ```
 git clone https://github.com/Gichbuoy/AI_Assistant.git
@@ -34,7 +35,8 @@ git clone https://github.com/Gichbuoy/AI_Assistant.git
 cd AI_Assistant
 ```
 
-### Install the required dependencies using pip.
+
+## Install the required dependencies using pip.
 ```
 pip install pyttsx3
 ```
@@ -74,8 +76,9 @@ pip install pyjokes
 Run the Jarvis script.
 
 
-### Usage
-Once you have Jarvis up and running, you can start interacting with it through voice commands. 
+
+## Usage
+- Once you have Jarvis up and running, you can start interacting with it through voice commands. 
 Simply speak your command after the prompt, and Jarvis will process it and respond accordingly. Some example commands include:
 
 * "What's the time?"
@@ -84,15 +87,21 @@ Simply speak your command after the prompt, and Jarvis will process it and respo
 * "Tell me a joke."
 
 
-### Customization
-Jarvis is designed to be easily customizable and extensible. You can add new functionalities, integrate APIs, or modify existing code to suit your needs. The codebase is well-organized and commented to aid in customization.
+## Customization
+Jarvis is designed to be easily customizable and extensible. You can add new functionalities, integrate APIs, or modify existing code to suit your needs.
+- The codebase is well-organized and commented to aid in customization.
 
 
-### Contributing
-Contributions to Jarvis are welcome! Whether you find and fix bugs, add new features, or improve documentation, your help is appreciated. Please fork the repository and submit pull requests with your changes.
 
-### License
+## Contributing
+Contributions to Jarvis are welcome! Whether you find and fix bugs, add new features, or improve documentation, your help is appreciated.
+- Please fork the repository and submit pull requests with your changes.
+
+
+
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
 
 ## Acknowledgments
 A big thank you to my mentor Arbaz Khan, for helping me build this project as well as the creators of the AI technology that powers Jarvis.
