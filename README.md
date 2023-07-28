@@ -35,18 +35,39 @@ cd AI_Assistant
 ```
 
 ### Install the required dependencies using pip.
-```pip install pyttsx3```
+```
+pip install pyttsx3
+```
 - It's a library that allows conversion of text to speech
-```pip install SpeechRecognition```
+
+```
+pip install SpeechRecognition
+```
 - It's a library that recognizes user's voice through the mic
-```pip install wikipedia```
-```pip install pyautogui```
+
+```
+pip install wikipedia
+```
+- Library that enables Jarvis to get nes from wikipedia
+
+```
+pip install pyautogui
+```
 - It's a library that allows screenshots to be taken
-```pip install PyAudio```
+
+```
+pip install PyAudio
+```
 - library that provides a simple interface to work with audio input and output
-```pip install psutil```
+
+```
+pip install psutil
+```
 - Library that shows cpu usage and battery status
-```pip install pyjokes```
+
+```
+pip install pyjokes
+```
 - Library that enables AI to tell jokes
 
 
