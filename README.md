@@ -78,7 +78,7 @@ Run the Jarvis script.
 
 
 ## Usage
-- Once you have Jarvis up and running, you can start interacting with it through voice commands. 
+Once you have Jarvis up and running, you can start interacting with it through voice commands. 
 Simply speak your command after the prompt, and Jarvis will process it and respond accordingly. Some example commands include:
 
 * "What's the time?"
