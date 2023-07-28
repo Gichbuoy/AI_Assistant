@@ -1,4 +1,6 @@
 # AI Personal Assistant
+![Jarvis](https://github.com/Gichbuoy/AI_Assistant/img/jarvis.jpeg)
+
 - Jarvis is an AI personal assistant project built using Python. It is designed to assist users with various tasks, making their lives easier and more productive.
 - Inspired by the AI assistant from the Iron Man movies, Jarvis can perform a wide range of functions, including answering questions, managing tasks, providing news updates, and more.
 
