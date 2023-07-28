@@ -1,31 +1,31 @@
 # AI Personal Assistant
-![Jarvis](./img/jarv.jpeg)
+![Jarvis](./img/jarvis2.jpeg)
 
 - Jarvis is an AI personal assistant project built using Python. It is designed to assist users with various tasks, making their lives easier and more productive.
 - Inspired by the AI assistant from the Iron Man movies, Jarvis can perform a wide range of functions, including answering questions, managing tasks, providing news updates, and more.
 
 ## Features
-**Voice Interaction:** Jarvis can listen to voice commands and respond using text-to-speech technology, creating a natural and interactive experience.
+- **Voice Interaction:** Jarvis can listen to voice commands and respond using text-to-speech technology, creating a natural and interactive experience.
 
-**Speech Recognition:** Powered by speech recognition libraries, Jarvis can accurately understand user voice commands and process them accordingly.
+- **Speech Recognition:** Powered by speech recognition libraries, Jarvis can accurately understand user voice commands and process them accordingly.
 
-**Task Management:** Jarvis can help you manage your to-do lists, set reminders, and schedule events, keeping you organized and on track.
+- **Task Management:** Jarvis can help you manage your to-do lists, set reminders, and schedule events, keeping you organized and on track.
 
-**News Updates:** Jarvis will search in wikipedia for information as per your request
+- **News Updates:** Jarvis will search in wikipedia for information as per your request
 
-**Play Songs:** Jarvis can play your saved songs in your local machine. Just give it the command.
+- **Play Songs:** Jarvis can play your saved songs in your local machine. Just give it the command.
 
-**Web Search:** Ask Jarvis questions or request information, and it will open tabs in chrome, searches to find relevant answers and present them to you.
+- **Web Search:** Ask Jarvis questions or request information, and it will open tabs in chrome, searches to find relevant answers and present them to you.
 
-**Jokes:** Ask Jarvis to tell you a joke. It will crack you up
+- **Jokes:** Ask Jarvis to tell you a joke. It will crack you up
 
-**Takes Screenshot:** JArvis can take screenshots!
+- **Takes Screenshot:** JArvis can take screenshots!
 
-**System Monitoring:** Jarvis can monitor system resources, such as CPU usage, memory usage, and battery status, to keep you informed about your device's performance.
+- **System Monitoring:** Jarvis can monitor system resources, such as CPU usage, memory usage, and battery status, to keep you informed about your device's performance.
 
-**Logout**, **Shutdown** and **Restart:** Jarvis can do all this in your local machine.
+- **Logout**, **Shutdown** and **Restart:** Jarvis can do all this in your local machine.
 
-**AI Learning:** The more you interact with Jarvis, the more it learns about your preferences and adapts to your needs.
+- **AI Learning:** The more you interact with Jarvis, the more it learns about your preferences and adapts to your needs.
 
 
 ## Installation
