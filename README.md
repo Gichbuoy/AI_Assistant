@@ -73,7 +73,7 @@ pip install pyjokes
 - Library that enables AI to tell jokes
 
 
-Run the Jarvis script.
+Run the [Jarvis](jarvis.py) script.
 
 
 
