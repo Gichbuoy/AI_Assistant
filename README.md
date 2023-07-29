@@ -5,6 +5,7 @@
 - Inspired by the AI assistant from the Iron Man, Jarvis can perform a wide range of functions, including answering questions, managing tasks, providing news updates, and more.
 
  JARVIS:
+ 
    Just
    A
    Really
