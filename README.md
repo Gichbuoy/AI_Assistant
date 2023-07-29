@@ -4,6 +4,14 @@
 - Jarvis is an AI personal assistant project built using Python. It is designed to assist users with various tasks, making their lives easier and more productive.
 - Inspired by the AI assistant from the Iron Man, Jarvis can perform a wide range of functions, including answering questions, managing tasks, providing news updates, and more.
 
+ JARVIS:
+   Just
+   A
+   Really
+   Very
+   Intelligent
+   System
+
 ## Features
 - **Voice Interaction:** Jarvis can listen to voice commands and respond using text-to-speech technology, creating a natural and interactive experience.
 
