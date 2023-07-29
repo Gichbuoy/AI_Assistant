@@ -38,7 +38,7 @@ cd AI_Assistant
 ```
 
 
-## Install the required dependencies using pip comm
+## Install the required dependencies using pip
 ```
 pip install pyttsx3
 ```
